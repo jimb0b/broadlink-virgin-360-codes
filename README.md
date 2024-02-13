@@ -1,5 +1,5 @@
 # broadlink-virgin-360-codes
-IR blaster codes for the Virgin 360 box in the UK in Home Assistant. Can be used by Broadlink devices.
+IR blaster codes for the Virgin 360 box in the UK in Home Assistant. Works with a Broadlinke RM4 Mini, I assume this will work for other Broadlink devices but this has not been tested.
 
 The code snippet assumes you already have the Broadlink device set up in Home Assistant.
 
